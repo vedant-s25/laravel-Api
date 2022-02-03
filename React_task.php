@@ -12,3 +12,4 @@ class React_task extends Model
     protected $primaryKey = 'id';
     protected $filed=[ 'name'];
 }
+
